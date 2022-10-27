@@ -1,5 +1,5 @@
 function ShowNameInConsol (name) {
-console.log(`Привет! ${username}`);
+console.log(`Привет! ${name}`);
 }
 
 const username = prompt ("Введите ваше имя");
